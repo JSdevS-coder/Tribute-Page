@@ -1,1 +1,154 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap" rel="stylesheet">
+  <title>Tribute page </title>
+</head>
+
+<body>
+  <div id="main">
+    <header id="title">
+      <h1>MAHATMA GHANDI</h1>
+      <h2>Mohandas Karamchand Gandhi (b. Oct 2 1869 d. Jan 30 1948)</h2>
+      <p>Gandhi was the preeminent leader of Indian nationalism in British-ruled India. Employing nonviolent civil
+        disobedience, Gandhi led India to independence and inspired movements for civil rights and freedom across the
+        world.</p>
+    </header>
+    <main>
+      <article>
+        <div id="img-div">
+          <figure>
+            <img id="image"
+              src="https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/09/27/Pictures/mahatma-gandhi-bombay-mumbai-evening-maharashtra-beach_239f305a-e131-11e9-a910-fb95b571a1f5.jpg"
+              alt="Ghandi walking on a beach">
+            <figcaption id="img-caption">
+              Evening walk at Juhu beach in May 1944.
+              Mahatma Ghandi walked every day of his life...A habit that kept his deceptively frail-looking body strong
+              & hardy.
+            </figcaption>
+          </figure>
+        </div>
+        <section id="tribute-info">
+          <h2>Most important moments of Ghandi's life:</h2>
+          <ul>
+            <li><strong>1869</strong> - Gandhi was born in Porbandar, a coastal town in present-day Gujarat, India, Oct
+              2 1869.</li>
+            <li><strong>1883</strong> - the 13-year old Mohandas was married to 14-year old Kasturbai Makhanji (her
+              first name was usually shortened to "Kasturba") in an arranged child marriage, as was the custom in the
+              region.</li>
+            <li><strong>1888</strong> - Gandhi traveled to London, England, to study law at University College London
+              and to train as a barrister.</li>
+            <li><strong>1891</strong> - Gandhi Returns to India from London After Passing the Bar to find out that his
+              mother died while he was away</li>
+            <li><strong>1893</strong> - In April Gandhi Travels to South Africa to Work Under a Year-Long Contract with
+              Dada Abdulla & Co., an Indian Firm</li>
+            <li><strong>1893</strong> - In May Gandhi is Ejected from a South African Train, Motivating Him to Fight for
+              Indian Rights in the British Colony</li>
+            <li>1894
+              Mohandes Gandhi Founds the Natal Indian Congress, through this organization, he molded the Indian
+              community of South Africa into a homogeneous political force</li>
+            <li><strong>1897</strong> - Ghandi was nearly lynched in the streets Durban by a mob of Europeans who had
+              been infuriated by Press reports of Gandhi’s advocacy of the Indian cause in his native land</li>
+            <li><strong>1899</strong> - At the onset of the South African War, Gandhi argued that Indians must support
+              the war effort in order to legitimize their claims to full citizenship, organizing a volunteer ambulance
+              corps of 300 free Indians and 800 indentured labourers called the Indian Ambulance Corps, one of the few
+              medical units to serve wounded black South Africans.</li>
+            <li><strong>1904</strong> - Gandhi Founds the Phoenix Settlement. Influenced by the teachings of Ruskin,
+              Gandhi purchased a farm at Phoenix in order to establish a communal settlement.</li>
+            <li><strong>1906</strong> -
+              Gandhi Introduces Non-Violent Protest Philosophy of Satyagraha</li>
+            <li><strong>1908</strong> - Gandhi is Arrested for the First Time, for Refusing to Carry an Obligatory ID
+              Card in South Africa</li>
+            <li><strong>1910</strong> -
+              Gandhi Establishes the Tolstoy Farm, which Serves as a Base of Operations for His Activities in South
+              Africa</li>
+            <li><strong>1913</strong> - Gandhi Begins "Great March" to Gain Indian Rights in South Africa</li>
+            <li><strong>1915</strong> -
+              Gandhi Receives Hero's Welcome Upon Returning to India from South Africa</li>
+            <li><strong>1917</strong> -
+              Gandhi Establishes Sabarmati Ashram</li>
+            <li><strong>1920</strong> -
+              The Gandhi Era of the Indian Independence Movement Begins with the Non-Cooperation Movement</li>
+            <li><strong>1921</strong> -
+              Gandhi is Given Exclusive Authority Over the Indian National Congress</li>
+            <li><strong>1922</strong> -
+              Gandhi is Arrested by the British Government on Charges of Inciting Violence at Chauri Chaura</li>
+            <li><strong>1924</strong> -
+              Gandhi is Released from Prison After Serving Only Two Years of a Six-Year Sentence Following Surgery for
+              Appendicitis</li>
+            <li><strong>1924</strong> -
+              Gandhi Begins Twenty-One Day Fast in an Attempt to Reconcile Hindus and Muslims
+            </li>
+            <li><strong>1930</strong> -
+              Declaration of the Independence of India</li>
+            <li><strong>1930</strong> -
+              Mahatma Gandhi Embarks on the Salt Satyagraha,
+              The Salt Satyagraha was a campaign of nonviolent protest against the British salt tax in colonial India
+              which began with the Salt March to Dandi</li>
+            <li><strong>1931</strong> -
+              Gandhi Sets Sail for England to Represent the Indian National Congress at the Second Round Table
+              Conference</li>
+            <li><strong>1932</strong> -
+              Gandhi Begins Six-Day Fast to Protest Separate Elections for Untouchables</li>
+            <li><strong>1934</strong> -
+              Gandhi Announces Retirement from Politics to Focus on Village Economics</li>
+            <li><strong>1939</strong> -
+              Gandhi Announces Fast-Unto-Death in the Effort to Form a People's Council in Rajkot</li>
+            <li><strong>1942</strong> -
+              Gandhi is Arrested, Along with the Entire Congress Working Committee</li>
+            <li><strong>1944</strong> -
+              Kasturba Gandhi Dies at Age 74</li>
+            <li><strong>1946</strong> -
+              Direct Action Day, Also Known as the "Great Calcutta Killing" a day of widespread riot and manslaughter in
+              the city of Calcutta (now known as Kolkata), Gandhi cancelled all his plans and decided to leave for the
+              riot-affected areas</li>
+            <li><strong>1947</strong> -
+              United Kingdom Passes the Indian Independence Act 1947</li>
+            <li><strong>1948</strong> -
+              Mahatma Gandhi Announces Fast to End Hindu/Muslim Violence in Delhi</li>
+            <li><strong>1948</strong> -
+              Mohandas Karamchand Gandhi is Assassinated by Nathuram Godse</li>
+          </ul>
+        </section>
+        <section id="quotes">
+          <h2>Mahatma Gandhi said: </h2>
+          <ul>
+            <li>“Be the change that you wish to see in the world.”</li>
+            <li>"Happiness is when what you think, what you say, and what you do are in harmony."</li>
+            <li>"Live as if you were to die tomorrow."</li>
+            <li>“An eye for an eye will only make the whole world blind.”</li>
+            <li>“Earth provides enough to satisfy every man's needs, but not every man's greed.”</li>
+            <li>
+              <blockquote>
+                “Your beliefs become your thoughts,
+                Your thoughts become your words,
+                Your words become your actions,
+                Your actions become your habits,
+                Your habits become your values,
+                Your values become your destiny.”
+                ― Gandhi</blockquote>
+            </li>
+          </ul>
+
+        </section>
+
+        <footer>
+          <button>
+            <a href="https://worldhistoryproject.org/topics/mahatma-gandhi" id="tribute-link" target="_blank">More
+              detailed look into Gandhi's life...</a>
+          </button>
+
+        </footer>
+      </article>
+    </main>
+  </div>
+
+</body>
+
+</html>
