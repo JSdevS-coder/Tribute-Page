@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url("https://www.myfreetextures.com/wp-content/uploads/2014/11/floral-old-paper-or-parchment-900x702.jpg");
+  background-repeat: repeat;
+  background-size: contain;
+  font-family: "Dancing script", cursive, serif;
+  font-size: 1.7em;
+  line-height: 1.5;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+#main {
+  display: flex;
+  flex-direction: column;
+  font-weight: 600;
+}
+
+#title {
+  font-weight: bolder;
+  border-bottom: 3px solid black; 
+}
+
+main {
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+#img-div {
+  padding: 10px;
+  border-bottom: 2px dotted black;
+  background-color: darkgrey;
+  border-radius: 30px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid darkgrey;
+  border-radius: 30px;
+}
+
+#img-caption {
+  padding: 10px;
+  background-color: lightgrey;
+  border-radius: 50px;
+}
+
+#tribute-info {
+  text-align: left;
+  padding: 10px 200px;
+  margin: auto;
+}
+
+strong {
+  font-weight: 900;
+}
+
+#quotes ul li {
+  list-style-type: none;
+  padding: 10px; 
+}
+
+footer {
+  border-top: 3px solid black;
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin-top: 10px;
+  border-radius: 50px;
+  border-color: transparent;
+  background-color: black;
+  width: 100%;
+}
+
+#tribute-link {
+  text-decoration: none;
+  display: block;
+  color: #c1a76c;
+  font-family: "Dancing script", cursive, serif;
+  font-size: 1.5em;
+  font-weight: 900;
+  padding: 20px;
+  border-radius: 50px;
+}
+
+#tribute-link:hover {
+  color: black;
+  background-color: #c1a76c;
+}
+
+@media (max-width: 800px) {
+  #tribute-info {
+    font-size: 1em;
+    text-align: left;
+    padding: 5px;
+    margin: 0;
+  }
+}
